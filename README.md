@@ -1,6 +1,6 @@
 # debian-kit
 
-This is a adaptation of debian kit to support up to 8GB image.
+This is a adaptation of debian kit to support up to 8GB debian.img on android
 
 ## make the install package
 $ make
