@@ -11,3 +11,7 @@ $ adb root
 $ adb shell
 
 $ sh /data/local/debian-kit-1-6.shar
+
+follow the script instructions to finish the installation
+
+$ sh /data/local/deb/deb
