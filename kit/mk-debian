@@ -549,8 +549,8 @@ if [ ! -e ${IMG} ];then
 			;;
 	esac
 
-	if [ -z "${LOOPSIZE}" ] || [ "${LOOPSIZE}" -lt 512 ] || [ "${LOOPSIZE}" -ge 2048 ];then
-		echo "You need to specify loop disk file size in Megabyte (512-2047)." >&2
+	if [ -z "${LOOPSIZE}" ] || [ "${LOOPSIZE}" -lt 512 ] || [ "${LOOPSIZE}" -ge 8192 ];then
+		echo "You need to specify loop disk file size in Megabyte (512-8191)." >&2
 		exit 1
 	fi
 
