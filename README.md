@@ -28,6 +28,7 @@ $ apt install python-pip python-dev libusb-1.0 sudo
 ## install tensorflow
 
 $ pip install grpcio==1.9.1 pbr funcsigs
+
 $ pip install grpcio==1.9.1 http://ci.tensorflow.org/view/Nightly/job/nightly-pi/lastSuccessfulBuild/artifact/output-artifacts/tensorflow-1.7.0-cp27-none-any.whl
 
 ## get the ncs source
