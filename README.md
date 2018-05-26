@@ -1,8 +1,6 @@
-# debian-kit
+## download debian kit then make
+$ git clone 
 
-This is a adaptation of debian kit to support up to 8GB debian.img on android
-
-## make the install package
 $ make
 
 ## put the install package on android device
