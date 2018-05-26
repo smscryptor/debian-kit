@@ -1,6 +1,6 @@
 # Orange Pi 2G IOT with Android 4.4 + Debian jessie + python + tensorflow + Intel Movidius Neural Compute Stick
 
-For less than 100$ you will have a performing tensorflow & caffe AI + IOT devkit
+For less than 100$ you will have a performing AI & IOT devkit
 
 My hardware configuration :
 
