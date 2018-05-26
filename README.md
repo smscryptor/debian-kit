@@ -10,7 +10,7 @@ https://fr.aliexpress.com/item/3-5inch-Black-color-Touch-Screen-LCD-screen-TFT-S
 
 https://www2.mouser.com/m_new/Intel/intel-movidius-stick/
 
-This tutorial assumes that you already have Android rooted device. 
+This tutorial assumes that you already have android rooted armv7 device. 
 
 ## download debian kit then make
 $ git clone https://github.com/smscryptor/debian-kit.git
