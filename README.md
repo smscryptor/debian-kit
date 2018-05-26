@@ -2,9 +2,15 @@
 
 For less than 100$ you will have a performing tensorflow & caffe AI + IOT devkit
 
+My hardware configuration :
+
 https://fr.aliexpress.com/item/Orange-Pi-2G-IOT-ARM-Cortex-A5-32bit-Support-ubuntu-linux-and-android-mini-PC-Beyond/32802458477.html
 
+https://fr.aliexpress.com/item/3-5inch-Black-color-Touch-Screen-LCD-screen-TFT-Suitable-for-Orange-Pi-2G-IOT-Development/32816194245.html?spm=a2g0w.10010108.1000013.2.670c7975I0eG0w&scm=1007.13339.90158.0&scm_id=1007.13339.90158.0&scm-url=1007.13339.90158.0&pvid=c6d13af3-b407-4e31-9da7-3d9f7ddcc24b&_t=pvid%3Ac6d13af3-b407-4e31-9da7-3d9f7ddcc24b%2Cscm-url%3A1007.13339.90158.0
+
 https://www2.mouser.com/m_new/Intel/intel-movidius-stick/
+
+This tutorial assumes that you already have Android rooted device. 
 
 ## download debian kit then make
 $ git clone https://github.com/smscryptor/debian-kit.git
