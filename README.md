@@ -1,7 +1,9 @@
-## download debian kit then make
-$ git clone 
+# Orange Pi 2G IOT with Android 4.4 + Debian jessie + python + tensorflow + Intel Movidius Neural Compute Stick
 
-$ make
+## download debian kit then make
+$ git clone https://github.com/smscryptor/debian-kit.git
+
+$ cd debian_kit && make
 
 ## put the install package on android device
 $ adb push debian-kit-1-6.shar /data/local
@@ -32,7 +34,7 @@ $ pip install grpcio==1.9.1 http://ci.tensorflow.org/view/Nightly/job/nightly-pi
 $ pip3 install --upgrade http://ci.tensorflow.org/view/Nightly/job/nightly-pi-python3/lastSuccessfulBuild/artifact/output-artifacts/tensorflow-1.8.0-cp34-none-any.whl
 
 
-## get the ncs source
+## get the ncs source release V2
 
 https://github.com/smscryptor/ncsdk/tree/ncsdk2
 
