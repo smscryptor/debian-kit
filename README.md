@@ -1,5 +1,11 @@
 # Orange Pi 2G IOT with Android 4.4 + Debian jessie + python + tensorflow + Intel Movidius Neural Compute Stick
 
+For less than 100$ you will have a performing tensorflow & caffe AI devkit
+
+https://fr.aliexpress.com/item/Orange-Pi-2G-IOT-ARM-Cortex-A5-32bit-Support-ubuntu-linux-and-android-mini-PC-Beyond/32802458477.html
+
+https://www2.mouser.com/m_new/Intel/intel-movidius-stick/
+
 ## download debian kit then make
 $ git clone https://github.com/smscryptor/debian-kit.git
 
